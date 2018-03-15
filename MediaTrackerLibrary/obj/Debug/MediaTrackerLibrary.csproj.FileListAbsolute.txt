@@ -1,0 +1,6 @@
+D:\Documents\GitHub\Media Tracker\Media Tracker\MediaTrackerLibrary\bin\Debug\MediaTrackerLibrary.dll
+D:\Documents\GitHub\Media Tracker\Media Tracker\MediaTrackerLibrary\bin\Debug\MediaTrackerLibrary.pdb
+D:\Documents\GitHub\Media Tracker\Media Tracker\MediaTrackerLibrary\obj\Debug\MediaTrackerLibrary.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\Media Tracker\Media Tracker\MediaTrackerLibrary\obj\Debug\MediaTrackerLibrary.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Media Tracker\Media Tracker\MediaTrackerLibrary\obj\Debug\MediaTrackerLibrary.dll
+D:\Documents\GitHub\Media Tracker\Media Tracker\MediaTrackerLibrary\obj\Debug\MediaTrackerLibrary.pdb

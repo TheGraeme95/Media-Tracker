@@ -1,0 +1,15 @@
+D:\Documents\GitHub\Media Tracker\Media Tracker\Media Tracker\bin\Debug\Media Tracker.exe.config
+D:\Documents\GitHub\Media Tracker\Media Tracker\Media Tracker\bin\Debug\Media Tracker.exe
+D:\Documents\GitHub\Media Tracker\Media Tracker\Media Tracker\bin\Debug\Media Tracker.pdb
+D:\Documents\GitHub\Media Tracker\Media Tracker\Media Tracker\obj\Debug\Media Tracker.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\Media Tracker\Media Tracker\Media Tracker\obj\Debug\Media_Tracker.Properties.Resources.resources
+D:\Documents\GitHub\Media Tracker\Media Tracker\Media Tracker\obj\Debug\Media Tracker.csproj.GenerateResource.Cache
+D:\Documents\GitHub\Media Tracker\Media Tracker\Media Tracker\obj\Debug\Media Tracker.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Media Tracker\Media Tracker\Media Tracker\obj\Debug\Media Tracker.exe
+D:\Documents\GitHub\Media Tracker\Media Tracker\Media Tracker\obj\Debug\Media Tracker.pdb
+D:\Documents\GitHub\Media Tracker\Media Tracker\Media Tracker\bin\Debug\MediaTrackerLibrary.dll
+D:\Documents\GitHub\Media Tracker\Media Tracker\Media Tracker\bin\Debug\MediaTrackerLibrary.pdb
+D:\Documents\GitHub\Media Tracker\Media Tracker\Media Tracker\obj\Debug\Media_Tracker.MainWindow.resources
+D:\Documents\GitHub\Media Tracker\Media Tracker\Media Tracker\obj\Debug\Media_Tracker.UserCreation.resources
+D:\Documents\GitHub\Media Tracker\Media Tracker\Media Tracker\obj\Debug\Media_Tracker.FilmForm.resources
+D:\Documents\GitHub\Media Tracker\Media Tracker\Media Tracker\obj\Debug\Media_Tracker.RemoveForm.resources
